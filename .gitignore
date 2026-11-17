@@ -1,0 +1,7 @@
+# Cityscapes data (license does not allow redistribution)
+cityscapes/
+# Model weights (>100 MB, exceed GitHub file limit)
+*.pth
+runs/
+__pycache__/
+.ipynb_checkpoints/
